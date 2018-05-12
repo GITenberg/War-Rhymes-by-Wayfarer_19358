@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8615'
     url: http://www.gutenberg.org/2009/agents/8615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19358#War-Rhymes-by-Wayfarer
 gutenberg_issued: '2006-09-22'
 gutenberg_type: Text
 identifiers:
